@@ -57,14 +57,12 @@
     <Compile Include="DetachedBox.cs" />
     <Compile Include="GenericHashAlgorithm.cs" />
     <Compile Include="KeyPair.cs" />
-    <Compile Include="LazyInvoke.cs" />
     <Compile Include="OneTimeAuth.cs" />
     <Compile Include="PublicKeyAuth.cs" />
     <Compile Include="PublicKeyBox.cs" />
     <Compile Include="SealedPublicKeyBox.cs" />
     <Compile Include="SecretAead.cs" />
     <Compile Include="SecretKeyAuth.cs" />
-    <Compile Include="SodiumLibrary.cs" />
     <Compile Include="StreamEncryption.cs" />
     <Compile Include="Utilities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,6 +71,7 @@
     <Compile Include="SodiumCore.cs" />
     <Compile Include="ScalarMult.cs" />
     <Compile Include="PasswordHash.cs" />
+    <Compile Include="SodiumLibrary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Dependencies\libsodium.dll">
