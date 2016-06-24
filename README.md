@@ -1,3 +1,7 @@
+# libsodium-net iOS Fork
+This fork is under development. For a stable .net implementation use the original [libsodium-net](https://github.com/adamcaudill/libsodium-net)
+
+
 # libsodium-net [![Build Status](https://travis-ci.org/adamcaudill/libsodium-net.svg?branch=master)](https://travis-ci.org/adamcaudill/libsodium-net) [![NuGet Version](http://img.shields.io/nuget/v/libsodium-net.svg)](https://www.nuget.org/packages/libsodium-net/) [![License](http://img.shields.io/badge/license-MIT-green.svg)](https://github.com/adamcaudill/libsodium-net/blob/master/LICENSE)
 
 libsodium-net, or better said, [libsodium](https://github.com/jedisct1/libsodium) for .NET, is a C# wrapper around libsodium. For those that don't know, libsodium is a portable implementation of [Daniel Bernstein's](http://cr.yp.to/djb.html) fantastic [NaCl](http://nacl.cr.yp.to/) library. If you aren't familiar with NaCl, I highly suggest that you look into libsodium and NaCl before using this library.
